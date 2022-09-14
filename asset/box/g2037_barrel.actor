@@ -1,0 +1,108 @@
+<ActorTemplates>
+	<ActorTemplate SoundName4="" SoundName1="" Alpha="1" SelectedRingSize="1" AttackScale="1" Volume="0.8" WoundBone="" MinDistance="1" name="111.actor" WoundAngle="25" Originalscale="1 1 1" SoundFileNum="0" SoundName5="" TextHeight="0" Skeleton="bone001.skel" IntervalTime="2" MaxDistance="16" SoundName2="" SoundName3="" IsShowShadow="true">
+		<BodyParts>
+			<BodyPart ColorParams="1 1 1 1" SlaveName="1" MasterName="body" DefaultUse="true" EdgeColor="1 1 1 1">
+				<StaticMesh LocalAlpha="1" DiscardAlpha="0" type_name="g2037_barrel">
+					<yaw value="0"/>
+					<SpecularStrength value="1.0"/>
+					<UseTransparentNearestSlice value="false"/>
+					<Position_X value="0"/>
+					<pitch value="0"/>
+					<Position_Y value="0"/>
+					<scale value="1.3"/>
+					<SpecularColor value="1.0 1.0 1.0 1.0"/>
+					<OverlayColor value="1.0 1.0 1.0 1.0"/>
+					<UseBloom value="false"/>
+					<UseEdge value="false"/>
+					<SocketName value="bone001"/>
+					<UseOverlayColorReplaceMode value="false"/>
+					<UseOriginalcolor value="false"/>
+					<UseReflect value="false"/>
+					<EdgeColor value="1.0 0 0 1.0"/>
+					<Position_Z value="0"/>
+					<LocalBrightnessScale value="1"/>
+					<SpecularCoef value="0.15"/>
+					<roll value="0"/>
+					<FileName value="g2037_barrel.mesh"/>
+				</StaticMesh>
+			</BodyPart>
+			<BodyPart ColorParams="1 1 1 1" SlaveName="2" MasterName="body" DefaultUse="false" EdgeColor="1 1 1 1">
+				<StaticMesh LocalAlpha="1" DiscardAlpha="0" type_name="g2037_barrel">
+					<yaw value="0"/>
+					<SpecularStrength value="1.0"/>
+					<UseTransparentNearestSlice value="false"/>
+					<Position_X value="0"/>
+					<pitch value="90"/>
+					<Position_Y value="0.5"/>
+					<scale value="1.3"/>
+					<SpecularColor value="1.0 1.0 1.0 1.0"/>
+					<OverlayColor value="1.0 1.0 1.0 1.0"/>
+					<UseBloom value="false"/>
+					<UseEdge value="false"/>
+					<SocketName value="bone001"/>
+					<UseOverlayColorReplaceMode value="false"/>
+					<UseOriginalcolor value="false"/>
+					<UseReflect value="false"/>
+					<EdgeColor value="1.0 0 0 1.0"/>
+					<Position_Z value="0"/>
+					<LocalBrightnessScale value="1"/>
+					<SpecularCoef value="0.15"/>
+					<roll value="0"/>
+					<FileName value="g2037_barrel.mesh"/>
+				</StaticMesh>
+			</BodyPart>
+			<BodyPart ColorParams="1 1 1 1" SlaveName="3" MasterName="body" DefaultUse="false" EdgeColor="1 1 1 1">
+				<StaticMesh LocalAlpha="1" DiscardAlpha="0" type_name="g2037_barrel">
+					<yaw value="0"/>
+					<SpecularStrength value="1.0"/>
+					<UseTransparentNearestSlice value="false"/>
+					<Position_X value="0"/>
+					<pitch value="0"/>
+					<Position_Y value="0"/>
+					<scale value="2"/>
+					<SpecularColor value="1.0 1.0 1.0 1.0"/>
+					<OverlayColor value="1.0 1.0 1.0 1.0"/>
+					<UseBloom value="false"/>
+					<UseEdge value="false"/>
+					<SocketName value="bone001"/>
+					<UseOverlayColorReplaceMode value="false"/>
+					<UseOriginalcolor value="false"/>
+					<UseReflect value="false"/>
+					<EdgeColor value="1.0 0 0 1.0"/>
+					<Position_Z value="0"/>
+					<LocalBrightnessScale value="1"/>
+					<SpecularCoef value="0.15"/>
+					<roll value="0"/>
+					<FileName value="g2037_barrel.mesh"/>
+				</StaticMesh>
+			</BodyPart>
+			<BodyPart ColorParams="1 1 1 1" SlaveName="4" MasterName="body" DefaultUse="false" EdgeColor="1 1 1 1">
+				<StaticMesh LocalAlpha="1" DiscardAlpha="0" type_name="g2037_barrel">
+					<yaw value="0"/>
+					<SpecularStrength value="1.0"/>
+					<UseTransparentNearestSlice value="false"/>
+					<Position_X value="0"/>
+					<pitch value="90"/>
+					<Position_Y value="1.2"/>
+					<scale value="2"/>
+					<SpecularColor value="1.0 1.0 1.0 1.0"/>
+					<OverlayColor value="1.0 1.0 1.0 1.0"/>
+					<UseBloom value="false"/>
+					<UseEdge value="false"/>
+					<SocketName value="bone001"/>
+					<UseOverlayColorReplaceMode value="false"/>
+					<UseOriginalcolor value="false"/>
+					<UseReflect value="false"/>
+					<EdgeColor value="1.0 0 0 1.0"/>
+					<Position_Z value="0"/>
+					<LocalBrightnessScale value="1"/>
+					<SpecularCoef value="0.15"/>
+					<roll value="0"/>
+					<FileName value="g2037_barrel.mesh"/>
+				</StaticMesh>
+			</BodyPart>
+		</BodyParts>
+		<Skills/>
+		<Anims/>
+	</ActorTemplate>
+</ActorTemplates>

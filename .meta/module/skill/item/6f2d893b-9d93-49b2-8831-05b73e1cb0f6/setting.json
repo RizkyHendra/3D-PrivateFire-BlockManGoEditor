@@ -1,0 +1,37 @@
+{
+  "data": {
+    "castAction": "pistol_shoot",
+    "frontSight": "myplugin/frontsight1",
+    "name": {
+      "value": "skill_6f2d893b-9d93-49b2-8831-05b73e1cb0f6"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "bodyPitchOffset": 270,
+            "missileCfg": "myplugin/b1f8ee68-392d-45a9-af95-6a521dc477b8"
+          }
+        ]
+      },
+      "type": "Missile"
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Texture/Skill/common/icon_开枪_act.png"
+      },
+      "iconPos": {
+        "area_number": 8
+      },
+      "isClickIcon": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "772052855d0e8b6b439f9ac36eec1d99",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.24"
+  }
+}

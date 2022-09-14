@@ -1,0 +1,3 @@
+PART_TOUCH_ENTITY_BEGIN {
+	KillEntity(entity = $obj2, from = $obj2)
+}

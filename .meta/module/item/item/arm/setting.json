@@ -1,0 +1,31 @@
+{
+  "data": {
+    "icon": {
+      "asset": "asset/Mesh/Blue-Violet Revolver/g2047_gun_01_03.png",
+      "selector": "editor/Capture the flag/asset/arm/arm.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/6f2d893b-9d93-49b2-8831-05b73e1cb0f6"
+        ]
+      },
+      "type": "InHand"
+    },
+    "mesh": {
+      "asset": "asset/Mesh/Blue-Violet Revolver/g2047_gun_01_03.mesh",
+      "selector": "editor/Capture the flag/asset/arm/1g2021_weapon_08.mesh"
+    },
+    "name": {
+      "value": "item_arm"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "177cb5dc19a1692e91c03fd1b0296584",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.24"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": {
+    "castSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "cdTime": {
+      "value": 160
+    },
+    "name": {
+      "value": "skill_accelerate"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Buff",
+        "buffCfg": "myplugin/RUN",
+        "buffTime": {
+          "value": 60
+        },
+        "target": "self"
+      },
+      "type": "Buff"
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Texture/Skill/common/icon_跑_nor.png",
+        "selector": "asset/Texture/Skill/common/icon_跑_nor.png"
+      },
+      "iconPos": {
+        "area_number": 8
+      },
+      "isClickIcon": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "17d5a8235c168dcc7e81b310bb26f383",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.24"
+  }
+}

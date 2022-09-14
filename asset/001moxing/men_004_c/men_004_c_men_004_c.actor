@@ -1,0 +1,34 @@
+<ActorTemplates>
+    <ActorTemplate name="men_004_c_men_004_c.actor" Originalscale="1 1 1" Skeleton="asset/001moxing/men_004_c/men_004_c_men_004_c.skel" AttackScale="1" TextHeight="0" IsShowShadow="true" WoundBone="" WoundAngle="25" SelectedRingSize="1" SoundName1="" SoundName2="" SoundName3="" SoundName4="" SoundName5="" SoundFileNum="0" Volume="0.8" MinDistance="1" MaxDistance="16" IntervalTime="2" Alpha="1" ThreadPriority="0">
+        <BodyParts>
+            <BodyPart MasterName="mutex_name0" SlaveName="group0" DefaultUse="true" EdgeColor="1 1 1 1" ColorParams="1 1 1 1">
+                <StaticMesh LocalAlpha="1">
+                    <FileName value="asset/001moxing/men_004_c/men_004_c.mesh"/>
+                    <SocketName value="men_004_c"/>
+                    <Position_X value="0"/>
+                    <Position_Y value="0"/>
+                    <Position_Z value="0"/>
+                    <yaw value="0"/>
+                    <pitch value="0"/>
+                    <roll value="0"/>
+                    <scale value="1"/>
+                    <UseBloom value="false"/>
+                    <LocalBrightnessScale value="1"/>
+                    <UseTransparentNearestSlice value="false"/>
+                    <OverlayColor value="1 1 1 1"/>
+                    <SpecularColor value="1 1 1 1"/>
+                    <SpecularCoef value="0.15"/>
+                    <SpecularStrength value="1"/>
+                </StaticMesh>
+            </BodyPart>
+        </BodyParts>
+        <Skills>
+            <Skill Name="men_004_c_men_004_c" EnableWound="false" UserDefineTime="-2" TextMode="0">
+                <Animation Name="asset/001moxing/men_004_c/men_004_c_men_004_c.anim" BeginTime="0" Times="1" Length="3.3666666" FadeTime="0.050000001" Channel="upper" TimeScale="1"/>
+            </Skill>
+        </Skills>
+        <Anims>
+            <Anim Name="asset/001moxing/men_004_c/men_004_c_men_004_c.anim"/>
+        </Anims>
+    </ActorTemplate>
+</ActorTemplates>

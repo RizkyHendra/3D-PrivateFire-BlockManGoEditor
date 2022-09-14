@@ -1,0 +1,629 @@
+{
+  "data": {
+    "md5": "802be3795bc7406d5f6a55a1c6454674",
+    "path": "asset/Gui/helpWnd.layout",
+    "root": {
+      "children": [
+        {
+          "__OBJ_TYPE": "StaticImage",
+          "id": {
+            "value": "611823f7-084a-47f4-9189-5094f7133d8f"
+          },
+          "Image": {
+            "asset": "asset/Texture/HelpGui/bg_select.png"
+          },
+          "pos": {
+            "UDim_X": {
+              "Offect": 1.08
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 0,
+              "Scale": 1
+            },
+            "UDim_Y": {
+              "Offect": 0,
+              "Scale": 1
+            }
+          }
+        },
+        {
+          "__OBJ_TYPE": "DefaultWindow",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "children": [
+            {
+              "__OBJ_TYPE": "StaticImage",
+              "id": {
+                "value": "36235399-4d31-479e-b871-08160700feb2"
+              },
+              "Image": {
+                "asset": "asset/Texture/HelpGui/Help_BG.png"
+              },
+              "pos": {
+                "UDim_Y": {
+                  "Offect": 5.722046000578e-06
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 0,
+                  "Scale": 1
+                },
+                "UDim_Y": {
+                  "Offect": -0.610000000000001,
+                  "Scale": 1
+                }
+              },
+              "StaticImageStretch": {
+                "bottom_left": 15,
+                "bottom_right": 16,
+                "top_left": 14,
+                "top_right": 13
+              }
+            },
+            {
+              "__OBJ_TYPE": "DefaultWindow",
+              "children": [
+                {
+                  "__OBJ_TYPE": "StaticImage",
+                  "FrameColours": {
+                    "b": 200,
+                    "g": 146,
+                    "r": 89
+                  },
+                  "FrameEnabled": true,
+                  "id": {
+                    "value": "75d24c6d-6e3c-4110-a013-5deb44f78828"
+                  },
+                  "Image": {
+                    "asset": "asset/Texture/HelpGui/1.png"
+                  },
+                  "name": "ImageBG",
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 74
+                    },
+                    "UDim_Y": {
+                      "Offect": 27.28
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 228
+                    },
+                    "UDim_Y": {
+                      "Offect": 173
+                    }
+                  }
+                },
+                {
+                  "__OBJ_TYPE": "StaticImage",
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "anchor": {
+                        "HorizontalAlignment": "Centre",
+                        "VerticalAlignment": "Centre"
+                      },
+                      "AutoTextScale": true,
+                      "Font_size": 22,
+                      "HorzFormatting": "CentreAligned",
+                      "id": {
+                        "value": "070acbb5-1e43-40cb-9659-ac8d8620463c"
+                      },
+                      "name": "Txt_info1",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 1.28
+                        },
+                        "UDim_Y": {
+                          "Offect": 2.283887334692e-15
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 0.9
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.8
+                        }
+                      },
+                      "text_key": {
+                        "value": "asset/Gui/helpWnd.layout.StaticText#04c92460-6529-46f0-a287-6494d784fd4b"
+                      },
+                      "TextColours": {
+                        "b": 255,
+                        "g": 255,
+                        "r": 255
+                      },
+                      "TextWordBreak": true,
+                      "VertFormatting": "CentreAligned",
+                      "word_warpped": false
+                    }
+                  ],
+                  "id": {
+                    "value": "56545e26-b6ab-4b9e-b4d6-bfa1f54b2e88"
+                  },
+                  "Image": {
+                    "asset": "asset/Texture/HelpGui/icon_bule.png"
+                  },
+                  "name": "ImageText",
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 329
+                    },
+                    "UDim_Y": {
+                      "Offect": 80.63
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 627
+                    },
+                    "UDim_Y": {
+                      "Offect": 66
+                    }
+                  },
+                  "StaticImageStretch": {
+                    "bottom_left": 39,
+                    "bottom_right": 19,
+                    "top_left": 34,
+                    "top_right": 19
+                  }
+                }
+              ],
+              "id": {
+                "value": "9be63874-11c7-497d-8c88-04d45b2b1282"
+              },
+              "pos": {
+                "UDim_X": {
+                  "Offect": -1.68
+                },
+                "UDim_Y": {
+                  "Offect": 5.3644201001291e-06
+                }
+              },
+              "size": {
+                "UDim_Y": {
+                  "Offect": 300.0
+                }
+              }
+            },
+            {
+              "__OBJ_TYPE": "DefaultWindow",
+              "children": [
+                {
+                  "__OBJ_TYPE": "StaticImage",
+                  "FrameColours": {
+                    "b": 200,
+                    "g": 146,
+                    "r": 89
+                  },
+                  "FrameEnabled": true,
+                  "id": {
+                    "value": "ddec4963-1c9b-43c6-b764-8255528f3b48"
+                  },
+                  "Image": {
+                    "asset": "asset/Texture/HelpGui/2.png"
+                  },
+                  "name": "ImageBG",
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 728.68
+                    },
+                    "UDim_Y": {
+                      "Offect": -98.08
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 228
+                    },
+                    "UDim_Y": {
+                      "Offect": 173
+                    }
+                  }
+                },
+                {
+                  "__OBJ_TYPE": "StaticImage",
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "anchor": {
+                        "HorizontalAlignment": "Centre",
+                        "VerticalAlignment": "Centre"
+                      },
+                      "AutoTextScale": true,
+                      "Font_size": 22,
+                      "HorzFormatting": "CentreAligned",
+                      "id": {
+                        "value": "0e8a2150-c156-4daa-ba9a-0d7028eb9389"
+                      },
+                      "name": "Txt_info2",
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 0.9
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.8
+                        }
+                      },
+                      "text_key": {
+                        "value": "asset/Gui/helpWnd.layout.StaticText#38f1d360-1edf-4c1d-82a4-762f61e00212"
+                      },
+                      "TextColours": {
+                        "b": 255,
+                        "g": 255,
+                        "r": 255
+                      },
+                      "TextWordBreak": true,
+                      "VertFormatting": "CentreAligned",
+                      "word_warpped": false
+                    }
+                  ],
+                  "id": {
+                    "value": "2823a838-aeb8-4bf9-97c0-8a2c7bf75e6e"
+                  },
+                  "Image": {
+                    "asset": "asset/Texture/HelpGui/icon_bule.png"
+                  },
+                  "name": "ImageText",
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 74
+                    },
+                    "UDim_Y": {
+                      "Offect": -36.9
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 627
+                    },
+                    "UDim_Y": {
+                      "Offect": 66
+                    }
+                  },
+                  "StaticImageStretch": {
+                    "bottom_left": 33,
+                    "bottom_right": 19,
+                    "top_left": 26,
+                    "top_right": 19
+                  }
+                }
+              ],
+              "id": {
+                "value": "673ab62a-4e41-4438-933a-d6b664fb6f1a"
+              },
+              "name": "DefaultWindow1",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 7.0533815001994e-06
+                },
+                "UDim_Y": {
+                  "Offect": 258.68
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 399.999999999998
+                },
+                "UDim_Y": {
+                  "Offect": 300.0
+                }
+              }
+            },
+            {
+              "__OBJ_TYPE": "DefaultWindow",
+              "children": [
+                {
+                  "__OBJ_TYPE": "StaticImage",
+                  "FrameColours": {
+                    "b": 200,
+                    "g": 146,
+                    "r": 89
+                  },
+                  "FrameEnabled": true,
+                  "id": {
+                    "value": "0246c71d-9958-42dd-a195-3d011c253d47"
+                  },
+                  "Image": {
+                    "asset": "asset/Texture/HelpGui/3.png"
+                  },
+                  "name": "ImageBG",
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 74
+                    },
+                    "UDim_Y": {
+                      "Offect": 27.28
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 228
+                    },
+                    "UDim_Y": {
+                      "Offect": 173
+                    }
+                  }
+                },
+                {
+                  "__OBJ_TYPE": "StaticImage",
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "anchor": {
+                        "HorizontalAlignment": "Centre",
+                        "VerticalAlignment": "Centre"
+                      },
+                      "AutoTextScale": true,
+                      "Font_size": 22,
+                      "HorzFormatting": "CentreAligned",
+                      "id": {
+                        "value": "db6c16f6-d519-43c5-a94b-276d66082ebd"
+                      },
+                      "name": "Txt_info3",
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 0.9
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.8
+                        }
+                      },
+                      "text_key": {
+                        "value": "asset/Gui/helpWnd.layout.StaticText#1cd4fa5a-ff53-4d08-8d57-08813fd804c3"
+                      },
+                      "TextColours": {
+                        "b": 255,
+                        "g": 255,
+                        "r": 255
+                      },
+                      "TextWordBreak": true,
+                      "VertFormatting": "CentreAligned",
+                      "word_warpped": false
+                    }
+                  ],
+                  "id": {
+                    "value": "ca02c190-0901-433f-b065-066d216df083"
+                  },
+                  "Image": {
+                    "asset": "asset/Texture/HelpGui/icon_bule.png"
+                  },
+                  "name": "ImageText",
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 329
+                    },
+                    "UDim_Y": {
+                      "Offect": 80.63
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 627
+                    },
+                    "UDim_Y": {
+                      "Offect": 66
+                    }
+                  },
+                  "StaticImageStretch": {
+                    "bottom_left": 29,
+                    "bottom_right": 16,
+                    "top_left": 30,
+                    "top_right": 19
+                  }
+                }
+              ],
+              "id": {
+                "value": "01a3379a-9719-4376-bcf1-ca8b3bb93780"
+              },
+              "name": "DefaultWindow2",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 1.7049537699876e-05
+                },
+                "UDim_Y": {
+                  "Offect": 276.68
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 400.000000000002
+                },
+                "UDim_Y": {
+                  "Offect": 300.0
+                }
+              }
+            },
+            {
+              "__OBJ_TYPE": "StaticImage",
+              "id": {
+                "value": "4a892c1e-0675-4763-8336-f7ce2d9bf2b8"
+              },
+              "Image": {
+                "asset": "asset/Texture/HelpGui/bg_select.png"
+              },
+              "name": "Image1",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 17.24
+                },
+                "UDim_Y": {
+                  "Offect": 27.28
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 45.41
+                },
+                "UDim_Y": {
+                  "Offect": 449.42
+                }
+              }
+            },
+            {
+              "__OBJ_TYPE": "StaticImage",
+              "id": {
+                "value": "93049514-57b6-4978-8d51-ecd90a95c7b4"
+              },
+              "Image": {
+                "asset": "asset/Texture/HelpGui/bg_select.png"
+              },
+              "name": "Image11",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 969.57930948257
+                },
+                "UDim_Y": {
+                  "Offect": 27.28
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 45.41000000003
+                },
+                "UDim_Y": {
+                  "Offect": 449.42
+                }
+              }
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "children": [
+                {
+                  "__OBJ_TYPE": "StaticImage",
+                  "anchor": {
+                    "HorizontalAlignment": "Centre",
+                    "VerticalAlignment": "Centre"
+                  },
+                  "id": {
+                    "value": "29c0f275-5d77-4c2b-b1a2-d088585f9896"
+                  },
+                  "Image": {
+                    "asset": "asset/Texture/icon/Login/icon_tick.png"
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 51
+                    },
+                    "UDim_Y": {
+                      "Offect": 41
+                    }
+                  },
+                  "WindowTouchThroughMode": "MousePassThroughOpen"
+                }
+              ],
+              "DisabledStretch": {
+                "bottom_left": 26,
+                "bottom_right": 13,
+                "top_left": 19,
+                "top_right": 16
+              },
+              "HoverImage": {
+                "asset": "asset/Texture/HelpGui/button_green_hover.png"
+              },
+              "HoverStretch": {
+                "bottom_left": 18,
+                "bottom_right": 11,
+                "top_left": 9,
+                "top_right": 12
+              },
+              "id": {
+                "value": "6c20f05c-5dfb-4d2d-9744-a84843b67245"
+              },
+              "name": "Btn_confirm",
+              "NormalImage": {
+                "asset": "asset/Texture/HelpGui/button_green_hover.png"
+              },
+              "NormalStretch": {
+                "bottom_left": 18,
+                "bottom_right": 11,
+                "top_left": 9,
+                "top_right": 12
+              },
+              "pos": {
+                "UDim_X": {
+                  "Offect": 398
+                },
+                "UDim_Y": {
+                  "Offect": 522.75
+                }
+              },
+              "PushedImage": {
+                "asset": "asset/Texture/HelpGui/button_green_act.png"
+              },
+              "PushedStretch": {
+                "bottom_left": 12,
+                "bottom_right": 13,
+                "top_left": 18,
+                "top_right": 11
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 235
+                },
+                "UDim_Y": {
+                  "Offect": 68
+                }
+              },
+              "Text": "",
+              "text_key": {
+                "value": "asset/Gui/helpWnd.layout.Button#b4d032b5-253e-4142-8729-00d04645b0b3"
+              }
+            }
+          ],
+          "id": {
+            "value": "a72c118b-7c67-4ddf-bc52-174011b504ba"
+          },
+          "name": "HelpWindows",
+          "pos": {
+            "UDim_Y": {
+              "Offect": 3.23,
+              "Scale": -0.07
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 1031
+            },
+            "UDim_Y": {
+              "Offect": 501.27
+            }
+          }
+        }
+      ],
+      "id": {
+        "value": "ba1ffbda-23bd-431e-925f-2c0b6402102f"
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 0,
+          "Scale": 1
+        },
+        "UDim_Y": {
+          "Offect": 0,
+          "Scale": 1
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "802be3795bc7406d5f6a55a1c6454674",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.24"
+  }
+}

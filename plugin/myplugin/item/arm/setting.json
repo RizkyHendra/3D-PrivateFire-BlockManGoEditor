@@ -1,0 +1,22 @@
+{
+  "canAbandon": false,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": false,
+  "dropSpeed": 0.2,
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/Mesh/Blue-Violet Revolver/g2047_gun_01_03.png",
+  "itemintroduction": "68cc05a5-c964-4873-ba69-60b122e25516",
+  "itemname": "item_arm",
+  "mesh": "asset/Mesh/Blue-Violet Revolver/g2047_gun_01_03.mesh",
+  "needSave": false,
+  "skill": [
+    "myplugin/6f2d893b-9d93-49b2-8831-05b73e1cb0f6"
+  ],
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

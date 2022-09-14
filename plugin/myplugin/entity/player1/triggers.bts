@@ -1,0 +1,4 @@
+ENTITY_ENTER {
+	AddItem(cfg = "myplugin/arm", count = 1, entity = $obj1, reason = "")
+	AddItem(cfg = "myplugin/apple", count = 1, entity = $obj1, reason = "")
+}

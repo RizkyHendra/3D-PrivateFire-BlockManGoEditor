@@ -1,0 +1,36 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Mesh/White Snowflake Pet Egg/g2042_pet_egg_ice_1.actor",
+      "selector": "editor/Capture the flag/asset/Actor/blue.actor"
+    },
+    "boundingVolume": {
+      "height": 1.8,
+      "height_c": 1.8,
+      "radius": 0.45,
+      "radius_c": 0.45
+    },
+    "deadSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "girlactor": {
+      "asset": "asset/Mesh/Snowflake Pattern Blue Pet Egg/g2042_pet_egg_ice.actor",
+      "selector": "editor/Capture the flag/asset/Actor/blue.actor"
+    },
+    "headPic": {
+      "asset": "asset/Mesh/Snowflake Pattern Blue Pet Egg/g2042_pet_egg_ice.tga"
+    },
+    "name": {
+      "value": "entity_bule_flag"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "f01556507dc572329b15dfc35ea0d7e0",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.24"
+  }
+}

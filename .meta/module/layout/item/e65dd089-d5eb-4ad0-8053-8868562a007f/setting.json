@@ -1,0 +1,2806 @@
+{
+  "data": {
+    "md5": "c585e386b4e16577fd51d28523ebdffb",
+    "path": "asset/Gui/sevenLoginWnd.layout",
+    "root": {
+      "anchor": {
+        "HorizontalAlignment": "Centre",
+        "VerticalAlignment": "Centre"
+      },
+      "children": [
+        {
+          "__OBJ_TYPE": "StaticImage",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "children": [
+            {
+              "__OBJ_TYPE": "HorizontalLayoutContainer",
+              "children": [
+                {
+                  "__OBJ_TYPE": "DefaultWindow",
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticImage",
+                      "anchor": {
+                        "HorizontalAlignment": "Centre"
+                      },
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "32931ddd-464e-4ffb-acc1-1f7c3b86ae93"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_grid.png"
+                          },
+                          "name": "Img_infoBg1",
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "32edb601-7734-4fc1-b72f-e0441fbaa950"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_select.png"
+                              },
+                              "name": "Img_selectIcon",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "afa4d48f-5284-411c-bb6e-f6c77e319686"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_curSelectGrid.png"
+                          },
+                          "name": "Img_selectIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticText",
+                              "anchor": {
+                                "HorizontalAlignment": "Right",
+                                "VerticalAlignment": "Bottom"
+                              },
+                              "Font_size": 21,
+                              "HorzFormatting": "CentreAligned",
+                              "id": {
+                                "value": "cff382b3-adaf-42ed-b8fb-20eaa35f51b4"
+                              },
+                              "name": "Txt_sum",
+                              "pos": {
+                                "UDim_X": {
+                                  "Scale": 0.16
+                                },
+                                "UDim_Y": {
+                                  "Scale": 0.2
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                }
+                              },
+                              "Text": "x1",
+                              "text_key": {
+                                "value": "asset/Gui/sevenLoginWnd.layout.StaticText#9aa80822-a2cb-4806-804c-6292f90f7340"
+                              },
+                              "TextColours": {
+                                "b": 255,
+                                "g": 255,
+                                "r": 255
+                              },
+                              "VertFormatting": "CentreAligned"
+                            }
+                          ],
+                          "id": {
+                            "value": "ef4dbd1a-38d8-49bf-a1ca-b3e54d391590"
+                          },
+                          "Image": {
+                            "asset": "asset/apple.png"
+                          },
+                          "name": "Img_icon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "7c8b067f-3802-4e3f-b855-df1c1cd7f3bf"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_tick.png"
+                              },
+                              "name": "Img_haveGotIconBG",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.7
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.6
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "db5b3474-cb26-444d-b866-5ab7a28251a4"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/mask_bg.png"
+                          },
+                          "name": "Img_haveGotIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        }
+                      ],
+                      "id": {
+                        "value": "39ced347-09ab-4077-9633-5a1d8720d6b3"
+                      },
+                      "Image": {
+                        "asset": "",
+                        "selector": ""
+                      },
+                      "name": "Img_infoBg",
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 1
+                        }
+                      }
+                    },
+                    {
+                      "__OBJ_TYPE": "DefaultWindow",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticText",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "Font_size": 18,
+                          "HorzFormatting": "RightAligned",
+                          "id": {
+                            "value": "e4ed9a0b-3dca-4f34-bd29-6ae9c1c57e81"
+                          },
+                          "name": "Txt_day",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": -2.6226059999246e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Text": "DAY",
+                          "text_key": {
+                            "value": "asset/Gui/sevenLoginWnd.layout.StaticText#1192cf57-57d6-477f-94e8-7ee26c7aad70"
+                          },
+                          "TextColours": {
+                            "b": 46,
+                            "g": 85,
+                            "r": 172
+                          },
+                          "VertFormatting": "BottomAligned"
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "VerticalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "a5208c5b-cd58-4a6a-a086-481193cda105"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/number_1.png"
+                          },
+                          "name": "Img_number",
+                          "pos": {
+                            "UDim_X": {
+                              "Scale": 0.1
+                            },
+                            "UDim_Y": {
+                              "Scale": -0.08
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.2
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.9
+                            }
+                          }
+                        }
+                      ],
+                      "id": {
+                        "value": "fa9d3ae0-0df9-46aa-82e8-0b2ebb39345d"
+                      },
+                      "name": "DW_dayInfo",
+                      "pos": {
+                        "UDim_Y": {
+                          "Scale": -0.3
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.3
+                        }
+                      }
+                    }
+                  ],
+                  "id": {
+                    "value": "b3c320e6-2063-4c14-9803-50ed718828af"
+                  },
+                  "name": "Wnd_dayData1",
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 0,
+                      "Scale": 0.12
+                    },
+                    "UDim_Y": {
+                      "Offect": 0,
+                      "Scale": 0.2
+                    }
+                  }
+                },
+                {
+                  "__OBJ_TYPE": "DefaultWindow",
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticImage",
+                      "anchor": {
+                        "HorizontalAlignment": "Centre"
+                      },
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "a27a1c4f-750d-4303-969b-e015c64a68b3"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_grid.png"
+                          },
+                          "name": "Img_infoBg1",
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "37ad4fc4-20e9-4512-b7c5-fc121ec5c3c5"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_select.png"
+                              },
+                              "name": "Img_selectIcon",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "70eb8404-000a-483e-b26e-fcd20be0d257"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_curSelectGrid.png"
+                          },
+                          "name": "Img_selectIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticText",
+                              "anchor": {
+                                "HorizontalAlignment": "Right",
+                                "VerticalAlignment": "Bottom"
+                              },
+                              "Font_size": 21,
+                              "HorzFormatting": "CentreAligned",
+                              "id": {
+                                "value": "52956ea4-8ba9-421e-aedc-0da784270606"
+                              },
+                              "name": "Txt_sum",
+                              "pos": {
+                                "UDim_X": {
+                                  "Scale": 0.16
+                                },
+                                "UDim_Y": {
+                                  "Scale": 0.2
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                }
+                              },
+                              "Text": "x1",
+                              "text_key": {
+                                "value": "asset/Gui/sevenLoginWnd.layout.StaticText#6f60a079-0c1e-43b2-b1d1-2bc2f7776ca2"
+                              },
+                              "TextColours": {
+                                "b": 255,
+                                "g": 255,
+                                "r": 255
+                              },
+                              "VertFormatting": "CentreAligned"
+                            }
+                          ],
+                          "id": {
+                            "value": "3782ff79-fcbc-41f7-984d-c227e5467f99"
+                          },
+                          "Image": {
+                            "asset": "asset/apple.png"
+                          },
+                          "name": "Img_icon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "7b28922c-39cf-4a87-8a18-c44a3f0df4f8"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_tick.png"
+                              },
+                              "name": "Img_haveGotIconBG",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.7
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.6
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "f0af6d25-6f91-4db0-9f14-0098edb75e31"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/mask_bg.png"
+                          },
+                          "name": "Img_haveGotIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        }
+                      ],
+                      "id": {
+                        "value": "a9bf1c30-4b35-4532-884b-679667121b62"
+                      },
+                      "Image": {
+                        "asset": "",
+                        "selector": ""
+                      },
+                      "name": "Img_infoBg",
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 1
+                        }
+                      }
+                    },
+                    {
+                      "__OBJ_TYPE": "DefaultWindow",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticText",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "Font_size": 18,
+                          "HorzFormatting": "RightAligned",
+                          "id": {
+                            "value": "6e8ec667-67a0-4638-870b-572b19c5e3a7"
+                          },
+                          "name": "Txt_day",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": -2.6226059999246e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Text": "DAY",
+                          "text_key": {
+                            "value": "asset/Gui/sevenLoginWnd.layout.StaticText#23bd5952-41ee-4013-9bbf-3a8fb3dbcd3b"
+                          },
+                          "TextColours": {
+                            "b": 46,
+                            "g": 85,
+                            "r": 172
+                          },
+                          "VertFormatting": "BottomAligned"
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "VerticalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "a9b76c12-00c1-4c9f-ad9a-649b05ad2786"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/number_2.png"
+                          },
+                          "name": "Img_number",
+                          "pos": {
+                            "UDim_X": {
+                              "Scale": 0.1
+                            },
+                            "UDim_Y": {
+                              "Scale": -0.08
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.35
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.9
+                            }
+                          }
+                        }
+                      ],
+                      "id": {
+                        "value": "cd90f61a-573a-48eb-8de2-e6fe85094e85"
+                      },
+                      "name": "DW_dayInfo",
+                      "pos": {
+                        "UDim_Y": {
+                          "Scale": -0.3
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.3
+                        }
+                      }
+                    }
+                  ],
+                  "id": {
+                    "value": "d7c84b54-bda8-46c7-8631-96384feb5605"
+                  },
+                  "name": "Wnd_dayData2",
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 165
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 0,
+                      "Scale": 0.12
+                    },
+                    "UDim_Y": {
+                      "Offect": 0,
+                      "Scale": 0.2
+                    }
+                  }
+                },
+                {
+                  "__OBJ_TYPE": "DefaultWindow",
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticImage",
+                      "anchor": {
+                        "HorizontalAlignment": "Centre"
+                      },
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "03612a3a-6926-4221-b1e7-257ce5eb8495"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_grid.png"
+                          },
+                          "name": "Img_infoBg1",
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "80c46a87-25fa-4d7f-b898-8eee366acf29"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_select.png"
+                              },
+                              "name": "Img_selectIcon",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "6035d7b5-83da-4a28-90f5-544c161c2aa2"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_curSelectGrid.png"
+                          },
+                          "name": "Img_selectIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticText",
+                              "anchor": {
+                                "HorizontalAlignment": "Right",
+                                "VerticalAlignment": "Bottom"
+                              },
+                              "Font_size": 21,
+                              "HorzFormatting": "CentreAligned",
+                              "id": {
+                                "value": "03e6dd32-7ead-49bc-9067-bb46790734d8"
+                              },
+                              "name": "Txt_sum",
+                              "pos": {
+                                "UDim_X": {
+                                  "Scale": 0.16
+                                },
+                                "UDim_Y": {
+                                  "Scale": 0.2
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                }
+                              },
+                              "Text": "x1",
+                              "text_key": {
+                                "value": "asset/Gui/sevenLoginWnd.layout.StaticText#3ca0b464-82de-4fd6-921e-cb6cf3618fe4"
+                              },
+                              "TextColours": {
+                                "b": 255,
+                                "g": 255,
+                                "r": 255
+                              },
+                              "VertFormatting": "CentreAligned"
+                            }
+                          ],
+                          "id": {
+                            "value": "996eb363-ff6b-4990-8920-a9d4d6974fdf"
+                          },
+                          "Image": {
+                            "asset": "asset/apple.png"
+                          },
+                          "name": "Img_icon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "e418021f-367e-4107-88d5-6299a13250c1"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_tick.png"
+                              },
+                              "name": "Img_haveGotIconBG",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.7
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.6
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "65bd0950-87d9-4957-9709-2b8f87bfbce8"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/mask_bg.png"
+                          },
+                          "name": "Img_haveGotIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        }
+                      ],
+                      "id": {
+                        "value": "1747c82c-e593-4dcc-b412-01e414de7ef1"
+                      },
+                      "Image": {
+                        "asset": "",
+                        "selector": ""
+                      },
+                      "name": "Img_infoBg",
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 1
+                        }
+                      }
+                    },
+                    {
+                      "__OBJ_TYPE": "DefaultWindow",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticText",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "Font_size": 18,
+                          "HorzFormatting": "RightAligned",
+                          "id": {
+                            "value": "adad4e31-d825-4b18-8214-5d85e5293bde"
+                          },
+                          "name": "Txt_day",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": -2.6226059999246e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Text": "DAY",
+                          "text_key": {
+                            "value": "asset/Gui/sevenLoginWnd.layout.StaticText#f5a19381-43e2-4e18-8511-aa64d81e429b"
+                          },
+                          "TextColours": {
+                            "b": 46,
+                            "g": 85,
+                            "r": 172
+                          },
+                          "VertFormatting": "BottomAligned"
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "VerticalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "979da135-d52e-4fde-a3bb-d3747fa82cec"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/number_3.png"
+                          },
+                          "name": "Img_number",
+                          "pos": {
+                            "UDim_X": {
+                              "Scale": 0.1
+                            },
+                            "UDim_Y": {
+                              "Scale": -0.08
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.35
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.9
+                            }
+                          }
+                        }
+                      ],
+                      "id": {
+                        "value": "55d1dd69-f526-4733-8273-2c8a11275237"
+                      },
+                      "name": "DW_dayInfo",
+                      "pos": {
+                        "UDim_Y": {
+                          "Scale": -0.3
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.3
+                        }
+                      }
+                    }
+                  ],
+                  "id": {
+                    "value": "3dcecd1f-7226-445b-8e6d-bbe9924549b9"
+                  },
+                  "name": "Wnd_dayData3",
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 330
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 0,
+                      "Scale": 0.12
+                    },
+                    "UDim_Y": {
+                      "Offect": 0,
+                      "Scale": 0.2
+                    }
+                  }
+                },
+                {
+                  "__OBJ_TYPE": "DefaultWindow",
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticImage",
+                      "anchor": {
+                        "HorizontalAlignment": "Centre"
+                      },
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "3710c0e8-4ab6-43bd-a5cc-e55e7815654e"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_grid.png"
+                          },
+                          "name": "Img_infoBg1",
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "779eab21-1a8d-422d-a10c-4c1021ec426f"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_select.png"
+                              },
+                              "name": "Img_selectIcon",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "25d33c80-acd7-4c21-9795-5b9038f78a72"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_curSelectGrid.png"
+                          },
+                          "name": "Img_selectIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticText",
+                              "anchor": {
+                                "HorizontalAlignment": "Right",
+                                "VerticalAlignment": "Bottom"
+                              },
+                              "Font_size": 21,
+                              "HorzFormatting": "CentreAligned",
+                              "id": {
+                                "value": "907ac4ca-7ce4-461b-af17-e46b1267641a"
+                              },
+                              "name": "Txt_sum",
+                              "pos": {
+                                "UDim_X": {
+                                  "Scale": 0.16
+                                },
+                                "UDim_Y": {
+                                  "Scale": 0.2
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                }
+                              },
+                              "Text": "x1",
+                              "text_key": {
+                                "value": "asset/Gui/sevenLoginWnd.layout.StaticText#f8254465-0b6c-45aa-8195-92c06209f16c"
+                              },
+                              "TextColours": {
+                                "b": 255,
+                                "g": 255,
+                                "r": 255
+                              },
+                              "VertFormatting": "CentreAligned"
+                            }
+                          ],
+                          "id": {
+                            "value": "7be777f4-dc8f-4c20-87ba-4c50be2ffdb2"
+                          },
+                          "Image": {
+                            "asset": "asset/apple.png"
+                          },
+                          "name": "Img_icon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "cdcd5df6-acca-437b-b5cc-3042a62554dc"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_tick.png"
+                              },
+                              "name": "Img_haveGotIconBG",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.7
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.6
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "4db1b439-1b4b-43df-ac15-9d63ad2f1dc9"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/mask_bg.png"
+                          },
+                          "name": "Img_haveGotIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        }
+                      ],
+                      "id": {
+                        "value": "d5f85aec-fe77-44e4-ab2c-0d7f92964db3"
+                      },
+                      "Image": {
+                        "asset": "",
+                        "selector": ""
+                      },
+                      "name": "Img_infoBg",
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 1
+                        }
+                      }
+                    },
+                    {
+                      "__OBJ_TYPE": "DefaultWindow",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticText",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "Font_size": 18,
+                          "HorzFormatting": "RightAligned",
+                          "id": {
+                            "value": "7e65044d-8503-4141-8064-32c19b23edd2"
+                          },
+                          "name": "Txt_day",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": -2.6226059999246e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Text": "DAY",
+                          "text_key": {
+                            "value": "asset/Gui/sevenLoginWnd.layout.StaticText#ab9dcb10-be80-4314-93a0-e937d21f23df"
+                          },
+                          "TextColours": {
+                            "b": 46,
+                            "g": 85,
+                            "r": 172
+                          },
+                          "VertFormatting": "BottomAligned"
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "VerticalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "71d383fd-72d8-467a-bfce-99db4622bef7"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/number_4.png"
+                          },
+                          "name": "Img_number",
+                          "pos": {
+                            "UDim_X": {
+                              "Scale": 0.1
+                            },
+                            "UDim_Y": {
+                              "Scale": -0.08
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.35
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.9
+                            }
+                          }
+                        }
+                      ],
+                      "id": {
+                        "value": "724f859a-ae3f-49b5-a982-b503b324e146"
+                      },
+                      "name": "DW_dayInfo",
+                      "pos": {
+                        "UDim_Y": {
+                          "Scale": -0.3
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.3
+                        }
+                      }
+                    }
+                  ],
+                  "id": {
+                    "value": "dd605cbb-67d4-4a01-8a30-1cadecc8025c"
+                  },
+                  "name": "Wnd_dayData4",
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 495
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 0,
+                      "Scale": 0.12
+                    },
+                    "UDim_Y": {
+                      "Offect": 0,
+                      "Scale": 0.2
+                    }
+                  }
+                }
+              ],
+              "id": {
+                "value": "c855e174-ce48-4855-bfa1-5f7fdf9119a4"
+              },
+              "name": "HL_info",
+              "pos": {
+                "UDim_X": {
+                  "Scale": 0.2
+                },
+                "UDim_Y": {
+                  "Scale": 0.23
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 614
+                },
+                "UDim_Y": {
+                  "Offect": 115
+                }
+              },
+              "space": 50
+            },
+            {
+              "__OBJ_TYPE": "HorizontalLayoutContainer",
+              "children": [
+                {
+                  "__OBJ_TYPE": "DefaultWindow",
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticImage",
+                      "anchor": {
+                        "HorizontalAlignment": "Centre"
+                      },
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "f0f97713-e3e0-432c-a4cc-d7fdb685f2cb"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_grid.png"
+                          },
+                          "name": "Img_infoBg1",
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "b50e29c9-fe81-4052-b8ab-5dcb7241d5ca"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_select.png"
+                              },
+                              "name": "Img_selectIcon",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "0ebc97bb-05aa-4b15-b685-4fbc0ae888d9"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_curSelectGrid.png"
+                          },
+                          "name": "Img_selectIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticText",
+                              "anchor": {
+                                "HorizontalAlignment": "Right",
+                                "VerticalAlignment": "Bottom"
+                              },
+                              "Font_size": 21,
+                              "HorzFormatting": "CentreAligned",
+                              "id": {
+                                "value": "4ba0f987-052b-483f-a8da-4af5618d2255"
+                              },
+                              "name": "Txt_sum",
+                              "pos": {
+                                "UDim_X": {
+                                  "Scale": 0.16
+                                },
+                                "UDim_Y": {
+                                  "Scale": 0.2
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                }
+                              },
+                              "Text": "x1",
+                              "text_key": {
+                                "value": "asset/Gui/sevenLoginWnd.layout.StaticText#c2e1af73-e210-4828-bd56-402f0664705f"
+                              },
+                              "TextColours": {
+                                "b": 255,
+                                "g": 255,
+                                "r": 255
+                              },
+                              "VertFormatting": "CentreAligned"
+                            }
+                          ],
+                          "id": {
+                            "value": "3da249ea-ce5b-424f-bc72-c67e503dcd6f"
+                          },
+                          "Image": {
+                            "asset": "asset/apple.png"
+                          },
+                          "name": "Img_icon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "b6b2d10e-3596-495d-bf9a-38a72602a50e"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_tick.png"
+                              },
+                              "name": "Img_haveGotIconBG",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.7
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.6
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "e7141b90-ed5f-4ec2-83ad-35e156cc3acb"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/mask_bg.png"
+                          },
+                          "name": "Img_haveGotIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        }
+                      ],
+                      "id": {
+                        "value": "109a239f-d032-4b29-899e-27568c50be28"
+                      },
+                      "Image": {
+                        "asset": "",
+                        "selector": ""
+                      },
+                      "name": "Img_infoBg",
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 1
+                        }
+                      }
+                    },
+                    {
+                      "__OBJ_TYPE": "DefaultWindow",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticText",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "Font_size": 18,
+                          "HorzFormatting": "RightAligned",
+                          "id": {
+                            "value": "6832446d-f941-4dd5-a0af-7756680a53d2"
+                          },
+                          "name": "Txt_day",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": -2.6226059999246e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Text": "DAY",
+                          "text_key": {
+                            "value": "asset/Gui/sevenLoginWnd.layout.StaticText#067d3f76-e5e8-4fa6-a328-da5690c6795d"
+                          },
+                          "TextColours": {
+                            "b": 46,
+                            "g": 85,
+                            "r": 172
+                          },
+                          "VertFormatting": "BottomAligned"
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "VerticalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "37d16acf-d74d-4ee4-9721-fad24c05d9ed"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/number_5.png"
+                          },
+                          "name": "Img_number",
+                          "pos": {
+                            "UDim_X": {
+                              "Scale": 0.1
+                            },
+                            "UDim_Y": {
+                              "Scale": -0.08
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.35
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.9
+                            }
+                          }
+                        }
+                      ],
+                      "id": {
+                        "value": "675ed04d-abaf-4224-9099-430aa6983562"
+                      },
+                      "name": "DW_dayInfo",
+                      "pos": {
+                        "UDim_Y": {
+                          "Scale": -0.3
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.3
+                        }
+                      }
+                    }
+                  ],
+                  "id": {
+                    "value": "5562f6ae-9976-4283-a44a-c4a31c94e149"
+                  },
+                  "name": "Wnd_dayData5",
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 0,
+                      "Scale": 0.12
+                    },
+                    "UDim_Y": {
+                      "Offect": 0,
+                      "Scale": 0.2
+                    }
+                  }
+                },
+                {
+                  "__OBJ_TYPE": "DefaultWindow",
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticImage",
+                      "anchor": {
+                        "HorizontalAlignment": "Centre"
+                      },
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "31a824fb-f118-458c-a714-27b4b481a2cf"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_grid.png"
+                          },
+                          "name": "Img_infoBg1",
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "7d355913-b6a7-4c82-bb26-f7c1309ffcaf"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_select.png"
+                              },
+                              "name": "Img_selectIcon",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "f261ae39-a9e3-42df-859d-7ca6a836e458"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_curSelectGrid.png"
+                          },
+                          "name": "Img_selectIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticText",
+                              "anchor": {
+                                "HorizontalAlignment": "Right",
+                                "VerticalAlignment": "Bottom"
+                              },
+                              "Font_size": 21,
+                              "HorzFormatting": "CentreAligned",
+                              "id": {
+                                "value": "1b06c6fb-4ced-4a85-bcdd-d08a0c4a9c54"
+                              },
+                              "name": "Txt_sum",
+                              "pos": {
+                                "UDim_X": {
+                                  "Scale": 0.16
+                                },
+                                "UDim_Y": {
+                                  "Scale": 0.2
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                }
+                              },
+                              "Text": "x1",
+                              "text_key": {
+                                "value": "asset/Gui/sevenLoginWnd.layout.StaticText#da373bb7-2d0b-4f41-90b7-4a2e9a2e0439"
+                              },
+                              "TextColours": {
+                                "b": 255,
+                                "g": 255,
+                                "r": 255
+                              },
+                              "VertFormatting": "CentreAligned"
+                            }
+                          ],
+                          "id": {
+                            "value": "60221381-369e-4177-ae79-2c9193ad4ae0"
+                          },
+                          "Image": {
+                            "asset": "asset/apple.png"
+                          },
+                          "name": "Img_icon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "67e22c4a-30a0-4db8-8042-4764c4636fe7"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_tick.png"
+                              },
+                              "name": "Img_haveGotIconBG",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.7
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.6
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "29f093bb-7633-4f92-9df9-0a3fabf654bf"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/mask_bg.png"
+                          },
+                          "name": "Img_haveGotIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        }
+                      ],
+                      "id": {
+                        "value": "ecbd4c6e-803a-4f4d-b27c-aa8fb40eb7dd"
+                      },
+                      "Image": {
+                        "asset": "",
+                        "selector": ""
+                      },
+                      "name": "Img_infoBg",
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 1
+                        }
+                      }
+                    },
+                    {
+                      "__OBJ_TYPE": "DefaultWindow",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticText",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "Font_size": 18,
+                          "HorzFormatting": "RightAligned",
+                          "id": {
+                            "value": "23e7c88c-78d8-4fcc-9c94-59f9bc5e2b49"
+                          },
+                          "name": "Txt_day",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": -2.6226059999246e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Text": "DAY",
+                          "text_key": {
+                            "value": "asset/Gui/sevenLoginWnd.layout.StaticText#448e4eaa-bc08-49bc-afd3-f1c7295c375e"
+                          },
+                          "TextColours": {
+                            "b": 46,
+                            "g": 85,
+                            "r": 172
+                          },
+                          "VertFormatting": "BottomAligned"
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "VerticalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "e32a14fc-95a6-46c6-9aef-01a211595b92"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/number_6.png"
+                          },
+                          "name": "Img_number",
+                          "pos": {
+                            "UDim_X": {
+                              "Scale": 0.1
+                            },
+                            "UDim_Y": {
+                              "Scale": -0.08
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.35
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.9
+                            }
+                          }
+                        }
+                      ],
+                      "id": {
+                        "value": "4cac50ff-c175-4b6c-81fe-72c0c0befa91"
+                      },
+                      "name": "DW_dayInfo",
+                      "pos": {
+                        "UDim_Y": {
+                          "Scale": -0.3
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.3
+                        }
+                      }
+                    }
+                  ],
+                  "id": {
+                    "value": "f3f08d23-d32c-4c3b-8fbb-97f3bdc6b570"
+                  },
+                  "name": "Wnd_dayData6",
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 165
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 0,
+                      "Scale": 0.12
+                    },
+                    "UDim_Y": {
+                      "Offect": 0,
+                      "Scale": 0.2
+                    }
+                  }
+                },
+                {
+                  "__OBJ_TYPE": "DefaultWindow",
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticImage",
+                      "anchor": {
+                        "HorizontalAlignment": "Centre"
+                      },
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "fd0a3362-e110-4361-9156-7f368cc2d4c0"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_grid.png"
+                          },
+                          "name": "Img_infoBg1",
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "c8b4486e-223e-49d0-b653-2b5918c5c10b"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_select.png"
+                              },
+                              "name": "Img_selectIcon",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 1.2
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "5cce980c-1b97-4424-8417-ef7c947c9d96"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/bg_curSelectGrid.png"
+                          },
+                          "name": "Img_selectIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Centre"
+                          },
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticText",
+                              "anchor": {
+                                "HorizontalAlignment": "Right",
+                                "VerticalAlignment": "Bottom"
+                              },
+                              "Font_size": 21,
+                              "HorzFormatting": "CentreAligned",
+                              "id": {
+                                "value": "c74cac47-63f6-4135-8904-4552b39da1f0"
+                              },
+                              "name": "Txt_sum",
+                              "pos": {
+                                "UDim_X": {
+                                  "Scale": 0.16
+                                },
+                                "UDim_Y": {
+                                  "Scale": 0.2
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.5
+                                }
+                              },
+                              "Text": "x1",
+                              "text_key": {
+                                "value": "asset/Gui/sevenLoginWnd.layout.StaticText#e58aa6eb-5439-403d-9cec-03484eab3a89"
+                              },
+                              "TextColours": {
+                                "b": 255,
+                                "g": 255,
+                                "r": 255
+                              },
+                              "VertFormatting": "CentreAligned"
+                            }
+                          ],
+                          "id": {
+                            "value": "b507d9ba-f7a8-4726-a454-293c49535441"
+                          },
+                          "Image": {
+                            "asset": "asset/apple.png"
+                          },
+                          "name": "Img_icon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.7
+                            }
+                          }
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "anchor": {
+                                "HorizontalAlignment": "Centre",
+                                "VerticalAlignment": "Centre"
+                              },
+                              "id": {
+                                "value": "fd716ab1-3794-472c-bead-a03c35423750"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Login/icon_tick.png"
+                              },
+                              "name": "Img_haveGotIconBG",
+                              "pos": {
+                                "UDim_Y": {
+                                  "Offect": 4.3596530003853e-06
+                                }
+                              },
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 0.7
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 0.6
+                                }
+                              }
+                            }
+                          ],
+                          "id": {
+                            "value": "2c35f486-2834-461a-8722-22064ba1a197"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/mask_bg.png"
+                          },
+                          "name": "Img_haveGotIcon",
+                          "pos": {
+                            "UDim_Y": {
+                              "Offect": 4.3596530003853e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Visible": false
+                        }
+                      ],
+                      "id": {
+                        "value": "bbf3c981-0e76-4d02-b98d-618c82517f97"
+                      },
+                      "Image": {
+                        "asset": "",
+                        "selector": ""
+                      },
+                      "name": "Img_infoBg",
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 1
+                        }
+                      }
+                    },
+                    {
+                      "__OBJ_TYPE": "DefaultWindow",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "StaticText",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre"
+                          },
+                          "Font_size": 18,
+                          "HorzFormatting": "RightAligned",
+                          "id": {
+                            "value": "ff3a47d2-77d4-4e41-ab18-40324face80b"
+                          },
+                          "name": "Txt_day",
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": -2.6226059999246e-06
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 1
+                            }
+                          },
+                          "Text": "DAY",
+                          "text_key": {
+                            "value": "asset/Gui/sevenLoginWnd.layout.StaticText#c27aa7a0-c2e7-4388-9c07-cfd8c175c584"
+                          },
+                          "TextColours": {
+                            "b": 46,
+                            "g": 85,
+                            "r": 172
+                          },
+                          "VertFormatting": "BottomAligned"
+                        },
+                        {
+                          "__OBJ_TYPE": "StaticImage",
+                          "anchor": {
+                            "VerticalAlignment": "Centre"
+                          },
+                          "id": {
+                            "value": "73c48aca-5ffb-4b26-88f1-a883ae51805b"
+                          },
+                          "Image": {
+                            "asset": "asset/Texture/icon/Login/number_7.png"
+                          },
+                          "name": "Img_number",
+                          "pos": {
+                            "UDim_X": {
+                              "Scale": 0.1
+                            },
+                            "UDim_Y": {
+                              "Scale": -0.08
+                            }
+                          },
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 0.35
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.9
+                            }
+                          }
+                        }
+                      ],
+                      "id": {
+                        "value": "515535e8-a4ee-44fb-8102-b190bf7b78a9"
+                      },
+                      "name": "DW_dayInfo",
+                      "pos": {
+                        "UDim_Y": {
+                          "Scale": -0.3
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.3
+                        }
+                      }
+                    }
+                  ],
+                  "id": {
+                    "value": "3bcef2c0-e7ba-4efc-8d3d-d90d9426a726"
+                  },
+                  "name": "Wnd_dayData7",
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 330
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 0,
+                      "Scale": 0.12
+                    },
+                    "UDim_Y": {
+                      "Offect": 0,
+                      "Scale": 0.2
+                    }
+                  }
+                }
+              ],
+              "id": {
+                "value": "035a88f9-087a-4088-bf5d-5f4bc797b2d5"
+              },
+              "name": "HL_info1",
+              "pos": {
+                "UDim_X": {
+                  "Scale": 0.28
+                },
+                "UDim_Y": {
+                  "Scale": 0.55
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 448
+                },
+                "UDim_Y": {
+                  "Offect": 115
+                }
+              },
+              "space": 50
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "anchor": {
+                "HorizontalAlignment": "Right",
+                "VerticalAlignment": "Bottom"
+              },
+              "children": [
+                {
+                  "__OBJ_TYPE": "StaticText",
+                  "Alpha": 0.997,
+                  "Font_size": 20,
+                  "HorzFormatting": "CentreAligned",
+                  "id": {
+                    "value": "d87ddfd3-434d-4ea5-9de7-1ce30593d604"
+                  },
+                  "name": "Txt_info",
+                  "pos": {
+                    "UDim_Y": {
+                      "Scale": -0.03
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 0,
+                      "Scale": 1
+                    },
+                    "UDim_Y": {
+                      "Offect": 0,
+                      "Scale": 1
+                    }
+                  },
+                  "text_key": {
+                    "value": "asset/Gui/sevenLoginWnd.layout.StaticText#8fa1a6c3-ffa6-431c-8779-82d42ed98372"
+                  },
+                  "TextColours": {
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                  },
+                  "VertFormatting": "CentreAligned",
+                  "WindowTouchThroughMode": "MousePassThroughOpen"
+                }
+              ],
+              "HoverImage": {
+                "asset": "asset/Texture/icon/Login/btn_signIn.png"
+              },
+              "id": {
+                "value": "76d2c59c-bf7b-4250-b4d0-d14c9a9bff36"
+              },
+              "name": "Btn_signIn",
+              "NormalImage": {
+                "asset": "asset/Texture/icon/Login/btn_signIn.png"
+              },
+              "pos": {
+                "UDim_X": {
+                  "Scale": -0.05
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 0,
+                  "Scale": 0.23
+                },
+                "UDim_Y": {
+                  "Offect": 0,
+                  "Scale": 0.15
+                }
+              },
+              "Text": "",
+              "text_key": {
+                "value": "asset/Gui/sevenLoginWnd.layout.Button#6e8ba439-20da-4fa4-ae57-7fbc1a187f89"
+              }
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "anchor": {
+                "HorizontalAlignment": "Right"
+              },
+              "HoverImage": {
+                "asset": "asset/Texture/icon/Login/btn_close.png"
+              },
+              "id": {
+                "value": "bd54021c-5f60-4771-a6fc-338d17c08d1a"
+              },
+              "name": "Btn_close",
+              "NormalImage": {
+                "asset": "asset/Texture/icon/Login/btn_close.png"
+              },
+              "pos": {
+                "UDim_X": {
+                  "Scale": 0.06
+                },
+                "UDim_Y": {
+                  "Scale": 0.05
+                }
+              },
+              "PushedImage": {
+                "asset": "asset/Texture/icon/Login/icon_弹窗关闭.png"
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 40
+                },
+                "UDim_Y": {
+                  "Offect": 40
+                }
+              },
+              "Text": "",
+              "text_key": {
+                "value": "asset/Gui/sevenLoginWnd.layout.Button#2c45bfdd-23d0-4cf9-8bd6-f1d4a0c4990b"
+              }
+            },
+            {
+              "__OBJ_TYPE": "StaticImage",
+              "anchor": {
+                "HorizontalAlignment": "Centre"
+              },
+              "children": [
+                {
+                  "__OBJ_TYPE": "StaticText",
+                  "anchor": {
+                    "HorizontalAlignment": "Centre",
+                    "VerticalAlignment": "Centre"
+                  },
+                  "Font_size": 22,
+                  "HorzFormatting": "CentreAligned",
+                  "id": {
+                    "value": "11e21646-3d0d-4cb4-a1b5-ba9bfbaebfa1"
+                  },
+                  "name": "Txt_info",
+                  "pos": {
+                    "UDim_Y": {
+                      "Scale": 0.15
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 0,
+                      "Scale": 0.8
+                    },
+                    "UDim_Y": {
+                      "Offect": 0,
+                      "Scale": 0.25
+                    }
+                  },
+                  "text_key": {
+                    "value": "asset/Gui/sevenLoginWnd.layout.StaticText#b92917c9-d7dc-4974-adca-e4fb21a74657"
+                  },
+                  "TextColours": {
+                    "b": 38,
+                    "g": 75,
+                    "r": 163
+                  },
+                  "VertFormatting": "CentreAligned"
+                }
+              ],
+              "id": {
+                "value": "a12461f3-8bea-4eba-b5c0-f51a75399e36"
+              },
+              "Image": {
+                "asset": "asset/Texture/icon/Login/bg_title_7signin.png"
+              },
+              "name": "Img_titleBG",
+              "pos": {
+                "UDim_X": {
+                  "Scale": 0.015
+                },
+                "UDim_Y": {
+                  "Scale": -0.13
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 0,
+                  "Scale": 0.6
+                },
+                "UDim_Y": {
+                  "Offect": 0,
+                  "Scale": 0.28
+                }
+              }
+            },
+            {
+              "__OBJ_TYPE": "StaticText",
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Bottom"
+              },
+              "Font_size": 24,
+              "id": {
+                "value": "3bafb87e-c599-4299-a600-3edb00cb6e52"
+              },
+              "name": "Txt_describe",
+              "size": {
+                "UDim_X": {
+                  "Offect": 0,
+                  "Scale": 0.8
+                },
+                "UDim_Y": {
+                  "Offect": 0,
+                  "Scale": 0.2
+                }
+              },
+              "text_key": {
+                "value": "asset/Gui/sevenLoginWnd.layout.StaticText#06782148-68c1-4c95-bf97-a2a59f5938ce"
+              },
+              "TextColours": {
+                "b": 42,
+                "g": 67,
+                "r": 109
+              },
+              "VertFormatting": "CentreAligned",
+              "WindowTouchThroughMode": "MousePassThroughOpen"
+            }
+          ],
+          "id": {
+            "value": "283dba9d-236d-44e1-9a48-7c3a2c5bab0d"
+          },
+          "Image": {
+            "asset": "asset/Texture/icon/Login/bg_main.png"
+          },
+          "name": "bg",
+          "pos": {
+            "UDim_Y": {
+              "Scale": 0.02
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 0,
+              "Scale": 0.75
+            },
+            "UDim_Y": {
+              "Offect": 0,
+              "Scale": 0.8
+            }
+          }
+        }
+      ],
+      "id": {
+        "value": "02bd1bf8-de7d-4b05-979a-178056db84bf"
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 0,
+          "Scale": 1
+        },
+        "UDim_Y": {
+          "Offect": 0,
+          "Scale": 1
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "c585e386b4e16577fd51d28523ebdffb",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.24"
+  }
+}

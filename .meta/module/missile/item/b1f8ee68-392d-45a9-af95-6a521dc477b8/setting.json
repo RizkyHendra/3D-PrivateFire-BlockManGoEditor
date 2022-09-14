@@ -1,0 +1,21 @@
+{
+  "data": {
+    "hitEntitySkill": "myplugin/attack",
+    "missileModel": {
+      "modelMesh": {
+        "asset": "asset/Mesh/Silver Shell/g2050_cannon_bullet.mesh"
+      },
+      "type": "mesh"
+    },
+    "name": {
+      "value": "missile_b1f8ee68-392d-45a9-af95-6a521dc477b8"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "5b24becec371516d97abf930faf8b777",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.24"
+  }
+}

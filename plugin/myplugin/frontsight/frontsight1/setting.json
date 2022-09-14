@@ -1,0 +1,58 @@
+{
+  "List": [
+    {
+      "Image": [
+        {
+          "initPos": {
+            "x": 0,
+            "y": -20
+          },
+          "path": "up.png"
+        },
+        {
+          "initPos": {
+            "x": 0,
+            "y": 20
+          },
+          "path": "up.png"
+        },
+        {
+          "initPos": {
+            "x": -20,
+            "y": 0
+          },
+          "path": "left.png"
+        },
+        {
+          "initPos": {
+            "x": 20,
+            "y": 0
+          },
+          "path": "left.png"
+        }
+      ],
+      "type": "Image"
+    },
+    {
+      "commonColor": {
+        "a": 0,
+        "b": 1,
+        "g": 1,
+        "r": 1
+      },
+      "hitColor": {
+        "a": 0,
+        "b": 0,
+        "g": 0,
+        "r": 1
+      },
+      "init_r": 100,
+      "type": "_Ccircle"
+    }
+  ],
+  "maxDiffuse": 70,
+  "minDiffuse": 30,
+  "moveDiffuse": 50,
+  "showLevel": 0,
+  "shrinkVal": 5
+}

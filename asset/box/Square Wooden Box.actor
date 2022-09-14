@@ -1,0 +1,27 @@
+<ActorTemplates>
+	<ActorTemplate Skeleton="xiangzi.skel" SoundFileNum="0" SoundName1="" IsShowShadow="false" SelectedRingSize="1" AttackScale="1" SoundName2="" TextHeight="0" SoundName5="" SoundName3="" MaxDistance="16" Volume="0.8" Originalscale="1 1 1" SoundName4="" WoundBone="" name="object_crate.actor" WoundAngle="25" Alpha="1" MinDistance="1" IntervalTime="2">
+		<BodyParts>
+			<BodyPart DefaultUse="true" ColorParams="1 1 1 1" EdgeColor="1 1 1 1" SlaveName="01" MasterName="body">
+				<StaticMesh>
+					<scale value="1"/>
+					<roll value="0"/>
+					<SocketName value="bone001"/>
+					<Position_Y value="0"/>
+					<yaw value="0"/>
+					<Position_Z value="0"/>
+					<pitch value="0"/>
+					<FileName value="asset/Mesh/Actor_mesh/xiangzi.mesh"/>
+					<Position_X value="0"/>
+				</StaticMesh>
+			</BodyPart>
+		</BodyParts>
+		<Anims>
+			<Anim Name="asset/Anim/xiangzi.anim"/>
+		</Anims>
+		<Skills>
+			<Skill Name="idle" UserDefineTime="-2" TextMode="0" EnableWound="false">
+				<Animation FadeTime="0.25" BeginTime="0" Name="asset/Anim/xiangzi.anim" Channel="" TimeScale="1" Length="3.366" Times="-1"/>
+			</Skill>
+		</Skills>
+	</ActorTemplate>
+</ActorTemplates>

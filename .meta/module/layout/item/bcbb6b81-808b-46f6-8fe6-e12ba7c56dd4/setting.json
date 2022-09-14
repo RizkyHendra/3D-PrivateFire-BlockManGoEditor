@@ -1,0 +1,721 @@
+{
+  "data": {
+    "md5": "ceb0da45daaabe78329a16a607f006d2",
+    "path": "asset/Gui/rankListWnd.layout",
+    "root": {
+      "anchor": {
+        "HorizontalAlignment": "Centre",
+        "VerticalAlignment": "Centre"
+      },
+      "children": [
+        {
+          "__OBJ_TYPE": "StaticImage",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "children": [
+            {
+              "__OBJ_TYPE": "DefaultWindow",
+              "anchor": {
+                "HorizontalAlignment": "Centre"
+              },
+              "children": [
+                {
+                  "__OBJ_TYPE": "ScrollableView",
+                  "anchor": {
+                    "HorizontalAlignment": "Centre"
+                  },
+                  "BackGroundImage": {
+                    "asset": "",
+                    "selector": ""
+                  },
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "VerticalLayoutContainer",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "DefaultWindow",
+                          "children": [
+                            {
+                              "__OBJ_TYPE": "StaticImage",
+                              "id": {
+                                "value": "034ccdb5-91c5-460d-9291-b158bd1aec24"
+                              },
+                              "Image": {
+                                "asset": "asset/Texture/icon/Rank/bg_select.png"
+                              },
+                              "name": "Img_bg",
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 0,
+                                  "Scale": 1
+                                },
+                                "UDim_Y": {
+                                  "Offect": 0,
+                                  "Scale": 1
+                                }
+                              }
+                            },
+                            {
+                              "__OBJ_TYPE": "HorizontalLayoutContainer",
+                              "children": [
+                                {
+                                  "__OBJ_TYPE": "StaticText",
+                                  "children": [
+                                    {
+                                      "__OBJ_TYPE": "StaticImage",
+                                      "id": {
+                                        "value": "eb25efb4-e008-40c6-9129-0ed6461e5f78"
+                                      },
+                                      "Image": {
+                                        "asset": "asset/Texture/icon/Rank/1.png"
+                                      },
+                                      "name": "Img_rankBG",
+                                      "size": {
+                                        "UDim_X": {
+                                          "Offect": 0,
+                                          "Scale": 1
+                                        },
+                                        "UDim_Y": {
+                                          "Offect": 0,
+                                          "Scale": 1
+                                        }
+                                      },
+                                      "Visible": false
+                                    }
+                                  ],
+                                  "ClippedByParent": true,
+                                  "Font_size": 21,
+                                  "HorzFormatting": "CentreAligned",
+                                  "id": {
+                                    "value": "f38226e4-37f8-4801-bdf2-9eb2475988f0"
+                                  },
+                                  "name": "Txt_rank",
+                                  "size": {
+                                    "UDim_X": {
+                                      "Offect": 0,
+                                      "Scale": 0.1
+                                    },
+                                    "UDim_Y": {
+                                      "Offect": 0,
+                                      "Scale": 1
+                                    }
+                                  },
+                                  "text_key": {
+                                    "value": "asset/Gui/rankListWnd.layout.StaticText#5a8d3c86-e8d0-4fd5-abef-43628cb23437"
+                                  },
+                                  "TextColours": {
+                                    "b": 255,
+                                    "g": 255,
+                                    "r": 255
+                                  },
+                                  "VertFormatting": "CentreAligned"
+                                },
+                                {
+                                  "__OBJ_TYPE": "StaticText",
+                                  "ClippedByParent": true,
+                                  "Font_size": 21,
+                                  "HorzFormatting": "CentreAligned",
+                                  "id": {
+                                    "value": "01e300b7-594d-48e8-8ff9-2ef814bcaa12"
+                                  },
+                                  "name": "Txt_name",
+                                  "pos": {
+                                    "UDim_X": {
+                                      "Offect": 62
+                                    }
+                                  },
+                                  "size": {
+                                    "UDim_X": {
+                                      "Offect": 0,
+                                      "Scale": 0.3
+                                    },
+                                    "UDim_Y": {
+                                      "Offect": 0,
+                                      "Scale": 1
+                                    }
+                                  },
+                                  "text_key": {
+                                    "value": "asset/Gui/rankListWnd.layout.StaticText#ac72e9e8-dd3c-4233-95f0-26a5e3da4381"
+                                  },
+                                  "TextColours": {
+                                    "b": 255,
+                                    "g": 255,
+                                    "r": 255
+                                  },
+                                  "VertFormatting": "CentreAligned"
+                                },
+                                {
+                                  "__OBJ_TYPE": "StaticText",
+                                  "ClippedByParent": true,
+                                  "Font_size": 21,
+                                  "HorzFormatting": "CentreAligned",
+                                  "id": {
+                                    "value": "d27b1879-0c40-41de-86d4-74821fb83165"
+                                  },
+                                  "name": "Txt_captureFlagTime",
+                                  "pos": {
+                                    "UDim_X": {
+                                      "Offect": 284
+                                    }
+                                  },
+                                  "size": {
+                                    "UDim_X": {
+                                      "Offect": 0,
+                                      "Scale": 0.3
+                                    },
+                                    "UDim_Y": {
+                                      "Offect": 0,
+                                      "Scale": 1
+                                    }
+                                  },
+                                  "text_key": {
+                                    "value": "asset/Gui/rankListWnd.layout.StaticText#fb31f0f0-fc49-4095-a1ea-afdbf132d9d8"
+                                  },
+                                  "TextColours": {
+                                    "b": 255,
+                                    "g": 255,
+                                    "r": 255
+                                  },
+                                  "VertFormatting": "CentreAligned"
+                                },
+                                {
+                                  "__OBJ_TYPE": "StaticText",
+                                  "ClippedByParent": true,
+                                  "Font_size": 21,
+                                  "HorzFormatting": "CentreAligned",
+                                  "id": {
+                                    "value": "c8a4f620-7ca8-4731-b766-e988008a928b"
+                                  },
+                                  "name": "Txt_flagSum",
+                                  "pos": {
+                                    "UDim_X": {
+                                      "Offect": 715
+                                    }
+                                  },
+                                  "size": {
+                                    "UDim_X": {
+                                      "Offect": 0,
+                                      "Scale": 0.15
+                                    },
+                                    "UDim_Y": {
+                                      "Offect": 0,
+                                      "Scale": 1
+                                    }
+                                  },
+                                  "text_key": {
+                                    "value": "asset/Gui/rankListWnd.layout.StaticText#aa21c808-5398-42a3-8844-8638386becec"
+                                  },
+                                  "TextColours": {
+                                    "b": 255,
+                                    "g": 255,
+                                    "r": 255
+                                  },
+                                  "VertFormatting": "CentreAligned"
+                                }
+                              ],
+                              "id": {
+                                "value": "a86c8934-1274-4a0e-88b1-8577ab3fd59a"
+                              },
+                              "name": "HL_info",
+                              "size": {
+                                "UDim_X": {
+                                  "Offect": 1133
+                                },
+                                "UDim_Y": {
+                                  "Offect": 69
+                                }
+                              },
+                              "space": 50
+                            }
+                          ],
+                          "id": {
+                            "value": "aac4f983-69a0-4c19-8bdb-8eb7fc4cc1b2"
+                          },
+                          "name": "Wnd_info",
+                          "size": {
+                            "UDim_X": {
+                              "Offect": 0,
+                              "Scale": 1
+                            },
+                            "UDim_Y": {
+                              "Offect": 0,
+                              "Scale": 0.2
+                            }
+                          }
+                        }
+                      ],
+                      "id": {
+                        "value": "b23f6081-2ea7-4def-8dd9-f6020f435d3d"
+                      },
+                      "name": "V_rankListLayout",
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 1156
+                        },
+                        "UDim_Y": {
+                          "Offect": 69
+                        }
+                      }
+                    }
+                  ],
+                  "id": {
+                    "value": "5661ea23-9fd3-4922-994b-cef16ed803f3"
+                  },
+                  "name": "SV_rankList",
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 0,
+                      "Scale": 1
+                    },
+                    "UDim_Y": {
+                      "Offect": 0,
+                      "Scale": 1
+                    }
+                  }
+                },
+                {
+                  "__OBJ_TYPE": "HorizontalLayoutContainer",
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 21,
+                      "HorzFormatting": "CentreAligned",
+                      "id": {
+                        "value": "dd2e5143-c8c3-4752-b0a0-d442e628f62a"
+                      },
+                      "name": "Txt_rankTip",
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 0.1
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.2
+                        }
+                      },
+                      "text_key": {
+                        "value": "asset/Gui/rankListWnd.layout.StaticText#98c8002a-c387-4ce3-b3f2-2427e18c07ee"
+                      },
+                      "TextColours": {
+                        "b": 255,
+                        "g": 255,
+                        "r": 255
+                      },
+                      "VertFormatting": "CentreAligned"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 21,
+                      "HorzFormatting": "CentreAligned",
+                      "id": {
+                        "value": "b1a247b4-c607-4c19-85bb-a56adcab153b"
+                      },
+                      "name": "Txt_nameTip",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 165
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 0.3
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.2
+                        }
+                      },
+                      "text_key": {
+                        "value": "asset/Gui/rankListWnd.layout.StaticText#4b4286b6-99d7-4439-93ed-cc89e74e9a8a"
+                      },
+                      "TextColours": {
+                        "b": 255,
+                        "g": 255,
+                        "r": 255
+                      },
+                      "VertFormatting": "CentreAligned"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 21,
+                      "HorzFormatting": "CentreAligned",
+                      "id": {
+                        "value": "3e706c78-ac7c-4c0b-89ed-45aae88fc17f"
+                      },
+                      "name": "Txt_captureFlagTimeTip",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 561
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 0.3
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.2
+                        }
+                      },
+                      "text_key": {
+                        "value": "asset/Gui/rankListWnd.layout.StaticText#4cbde16f-fd82-473f-bfec-56eb14a2eff0"
+                      },
+                      "TextColours": {
+                        "b": 255,
+                        "g": 255,
+                        "r": 255
+                      },
+                      "VertFormatting": "CentreAligned"
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticText",
+                      "Font_size": 21,
+                      "HorzFormatting": "CentreAligned",
+                      "id": {
+                        "value": "ddadfc00-4cd8-4010-9d0f-b6e900725db5"
+                      },
+                      "name": "Txt_flagSumTip",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 957
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 0,
+                          "Scale": 0.15
+                        },
+                        "UDim_Y": {
+                          "Offect": 0,
+                          "Scale": 0.2
+                        }
+                      },
+                      "text_key": {
+                        "value": "asset/Gui/rankListWnd.layout.StaticText#2b09bb2c-df87-438f-a96f-68cbb3875279"
+                      },
+                      "TextColours": {
+                        "b": 255,
+                        "g": 255,
+                        "r": 255
+                      },
+                      "VertFormatting": "CentreAligned"
+                    }
+                  ],
+                  "id": {
+                    "value": "b24cac98-906f-465d-bb2b-0178a4d4d423"
+                  },
+                  "name": "HorizontalLayout",
+                  "pos": {
+                    "UDim_Y": {
+                      "Scale": -0.21
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 1133
+                    },
+                    "UDim_Y": {
+                      "Offect": 69
+                    }
+                  },
+                  "space": 50
+                }
+              ],
+              "id": {
+                "value": "69a99312-addc-4ae8-872a-a677509760bc"
+              },
+              "name": "DW_bg",
+              "pos": {
+                "UDim_Y": {
+                  "Scale": 0.1
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 0,
+                  "Scale": 0.9
+                },
+                "UDim_Y": {
+                  "Offect": 0,
+                  "Scale": 0.6
+                }
+              }
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Bottom"
+              },
+              "children": [
+                {
+                  "__OBJ_TYPE": "StaticText",
+                  "anchor": {
+                    "HorizontalAlignment": "Centre",
+                    "VerticalAlignment": "Centre"
+                  },
+                  "Font_size": 21,
+                  "HorzFormatting": "CentreAligned",
+                  "id": {
+                    "value": "7f2396b1-2cb0-4079-8651-5645ba3db72f"
+                  },
+                  "name": "Txt_info",
+                  "pos": {
+                    "UDim_Y": {
+                      "Scale": -0.05
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 0,
+                      "Scale": 1
+                    },
+                    "UDim_Y": {
+                      "Offect": 0,
+                      "Scale": 1
+                    }
+                  },
+                  "Text": "Again",
+                  "text_key": {
+                    "value": "asset/Gui/rankListWnd.layout.StaticText#daad4ad0-41ac-4a06-94a3-fefa2e1438ad"
+                  },
+                  "TextColours": {
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                  },
+                  "VertFormatting": "CentreAligned",
+                  "WindowTouchThroughMode": "MousePassThroughOpen"
+                }
+              ],
+              "HoverImage": {
+                "asset": "asset/Texture/icon/Rank/icon_bule.png"
+              },
+              "id": {
+                "value": "c7b6f22d-aa7f-47ee-9da4-11f2b8969c4f"
+              },
+              "name": "Btn_replay",
+              "NormalImage": {
+                "asset": "asset/Texture/icon/Rank/icon_bule.png"
+              },
+              "pos": {
+                "UDim_X": {
+                  "Scale": -0.1
+                },
+                "UDim_Y": {
+                  "Scale": -0.04
+                }
+              },
+              "PushedImage": {
+                "asset": "asset/Texture/icon/Rank/icon_bule.png"
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 0,
+                  "Scale": 0.13
+                },
+                "UDim_Y": {
+                  "Offect": 0,
+                  "Scale": 0.13
+                }
+              },
+              "Text": "",
+              "text_key": {
+                "value": "asset/Gui/rankListWnd.layout.Button#5e8fc47d-93b1-477e-b89e-dd0bad9db209"
+              }
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Bottom"
+              },
+              "children": [
+                {
+                  "__OBJ_TYPE": "StaticText",
+                  "anchor": {
+                    "HorizontalAlignment": "Centre",
+                    "VerticalAlignment": "Centre"
+                  },
+                  "Font_size": 21,
+                  "HorzFormatting": "CentreAligned",
+                  "id": {
+                    "value": "1cb0d05c-a74f-4e61-8799-30e311535180"
+                  },
+                  "name": "Txt_info",
+                  "pos": {
+                    "UDim_Y": {
+                      "Scale": -0.05
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 0,
+                      "Scale": 1
+                    },
+                    "UDim_Y": {
+                      "Offect": 0,
+                      "Scale": 1
+                    }
+                  },
+                  "Text": "Exit",
+                  "text_key": {
+                    "value": "asset/Gui/rankListWnd.layout.StaticText#448eb3a7-21a1-444e-8bc3-ad05d0e1029a"
+                  },
+                  "TextColours": {
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                  },
+                  "VertFormatting": "CentreAligned",
+                  "WindowTouchThroughMode": "MousePassThroughOpen"
+                }
+              ],
+              "HoverImage": {
+                "asset": "asset/Texture/icon/Rank/icon_red.png"
+              },
+              "id": {
+                "value": "b5266369-d95c-4c98-be3e-6a0c83bfeff2"
+              },
+              "name": "Btn_exitGame",
+              "NormalImage": {
+                "asset": "asset/Texture/icon/Rank/icon_red.png"
+              },
+              "pos": {
+                "UDim_X": {
+                  "Scale": 0.1
+                },
+                "UDim_Y": {
+                  "Scale": -0.04
+                }
+              },
+              "PushedImage": {
+                "asset": "asset/Texture/icon/Rank/icon_red.png"
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 0,
+                  "Scale": 0.13
+                },
+                "UDim_Y": {
+                  "Offect": 0,
+                  "Scale": 0.13
+                }
+              },
+              "Text": "",
+              "text_key": {
+                "value": "asset/Gui/rankListWnd.layout.Button#573d3056-2882-4af5-b9c3-ca3905b52fcf"
+              }
+            },
+            {
+              "__OBJ_TYPE": "StaticImage",
+              "anchor": {
+                "HorizontalAlignment": "Centre"
+              },
+              "children": [
+                {
+                  "__OBJ_TYPE": "StaticImage",
+                  "anchor": {
+                    "HorizontalAlignment": "Centre",
+                    "VerticalAlignment": "Bottom"
+                  },
+                  "id": {
+                    "value": "428e3a4b-1e2c-46b1-9a54-31a907c655b8"
+                  },
+                  "Image": {
+                    "asset": "asset/Texture/icon/Rank/icon_lose.png"
+                  },
+                  "name": "Img_result",
+                  "pos": {
+                    "UDim_Y": {
+                      "Scale": -0.16
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 0,
+                      "Scale": 0.1
+                    },
+                    "UDim_Y": {
+                      "Offect": 0,
+                      "Scale": 0.4
+                    }
+                  }
+                }
+              ],
+              "id": {
+                "value": "437dd2de-667b-4a56-a82a-9d179e3b975c"
+              },
+              "Image": {
+                "asset": "asset/Texture/icon/Rank/title_lose.png"
+              },
+              "name": "Img_title",
+              "pos": {
+                "UDim_Y": {
+                  "Scale": -0.2
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 0,
+                  "Scale": 1
+                },
+                "UDim_Y": {
+                  "Offect": 0,
+                  "Scale": 0.2
+                }
+              }
+            }
+          ],
+          "id": {
+            "value": "b8f43c00-39d5-4956-9f3d-a15210c2919f"
+          },
+          "Image": {
+            "asset": "asset/Texture/icon/Rank/bg_mianPlane.png"
+          },
+          "name": "Img_bg",
+          "pos": {
+            "UDim_Y": {
+              "Scale": 0.07
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 0,
+              "Scale": 1
+            },
+            "UDim_Y": {
+              "Offect": 0,
+              "Scale": 0.8
+            }
+          }
+        }
+      ],
+      "id": {
+        "value": "24c436c0-ccf3-4540-bd76-995bc9627440"
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 0,
+          "Scale": 1
+        },
+        "UDim_Y": {
+          "Offect": 0,
+          "Scale": 1
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "ceb0da45daaabe78329a16a607f006d2",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.24"
+  }
+}

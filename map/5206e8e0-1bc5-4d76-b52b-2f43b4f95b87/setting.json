@@ -1,0 +1,121 @@
+{
+  "bake_texture_size": 64,
+  "blinn": 0,
+  "canBreak": true,
+  "hdr": 0,
+  "hideCloud": true,
+  "is_bake_light_effect_visible": false,
+  "moveDownGravity": 0.15,
+  "scene": [
+    {
+      "attributes": [],
+      "class": "VoxelTerrain",
+      "customProperties": [],
+      "properties": {
+        "collisionGroup": "1",
+        "id": "8802562736068116481",
+        "isVisibleInEditor": "true",
+        "name": "VoxelTerrain",
+        "uniqueKey": "",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "class": "Light",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "id": "8802562736163536897",
+        "ID": "3",
+        "isVisibleInEditor": "true",
+        "lightActived": "true",
+        "lightAngle": "30.0",
+        "lightBrightness": "1.0",
+        "lightColor": "r:1.0 g:1.0 b:1.0 a:1.0",
+        "lightLength": "1.0",
+        "lightRange": "8.0",
+        "lightType": "GlobalLight",
+        "lightWidth": "1.0",
+        "name": "EnvironmentLight",
+        "needSync": "false",
+        "position": "x:0 y:0 z:0",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "shadowsDistance": "20.0",
+        "shadowsIntensity": "1.0",
+        "shadowsOffset": "0.02",
+        "shadowsPresicion": "1024",
+        "shadowsType": "null",
+        "skyColor": "r:0.498039215686275 g:0.513725490196078 b:0.545098039215686 a:1.0",
+        "skyLineColor": "r:0.23921568627451 g:0.227450980392157 b:0.207843137254902 a:1.0",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "class": "Light",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "id": "8802562736241573889",
+        "ID": "4",
+        "isVisibleInEditor": "true",
+        "lightActived": "true",
+        "lightAngle": "30.0",
+        "lightBrightness": "1.0",
+        "lightColor": "r:1.0 g:1.0 b:1.0 a:1.0",
+        "lightLength": "1.0",
+        "lightRange": "8.0",
+        "lightType": "DirectionalLight",
+        "lightWidth": "1.0",
+        "name": "DirectionalLight",
+        "needSync": "false",
+        "position": "x:0 y:5 z:0",
+        "rotation": "x:0 y:-90 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "shadowsDistance": "20.0",
+        "shadowsIntensity": "1.0",
+        "shadowsOffset": "0.02",
+        "shadowsPresicion": "1024",
+        "shadowsType": "null",
+        "skyColor": "r:0.498039215686275 g:0.513725490196078 b:0.545098039215686 a:1.0",
+        "skyLineColor": "r:0.23921568627451 g:0.227450980392157 b:0.207843137254902 a:1.0",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    }
+  ],
+  "skyBox": [
+    {
+      "texture": [
+        "@asset/Texture/SkyBox/Common2/Sky03_right.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_left.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_top.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_bottom.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_back.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_front.png"
+      ]
+    }
+  ],
+  "skyBoxMode": "static_display",
+  "skyBoxRotate": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "skyBoxTexPixFmt": "RGBA8",
+  "skyBoxTexSize": 512,
+  "touchPosY": {
+    "touchdownPosY": -30,
+    "touchupPosY": 720
+  },
+  "useLod": false
+}

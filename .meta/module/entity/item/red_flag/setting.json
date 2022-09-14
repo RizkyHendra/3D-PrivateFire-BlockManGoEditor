@@ -1,0 +1,36 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Mesh/Large Dynamic Flame Pattern Pet Egg/g2042_pet_egg_party.actor",
+      "selector": "editor/Capture the flag/asset/Actor/red.actor"
+    },
+    "boundingVolume": {
+      "height": 1.8,
+      "height_c": 1.8,
+      "radius": 0.45,
+      "radius_c": 0.45
+    },
+    "deadSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "girlactor": {
+      "asset": "",
+      "selector": "editor/Capture the flag/asset/Actor/red.actor"
+    },
+    "headPic": {
+      "asset": "asset/Mesh/Flame Pattern Red Pet Egg/g2042_pet_egg_animal_03.png"
+    },
+    "name": {
+      "value": "entity_red_flag"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "7cdf4ede44b690113b3a59983c07a0e9",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.24"
+  }
+}

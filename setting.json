@@ -1,0 +1,353 @@
+{
+  "areaLightSize": 1,
+  "automatch": false,
+  "bagCap": 9,
+  "batchType": "Dynamic",
+  "cameraCfg": {
+    "canSwitchView": true,
+    "defaultPitch": 0,
+    "defaultView": 1,
+    "defaultYaw": 0,
+    "viewModeConfig": [
+      {
+        "enable": false,
+        "lockSlideScreen": false,
+        "viewFovAngle": 75
+      },
+      {
+        "distance": 4,
+        "enable": true,
+        "enableCollisionDetect": true,
+        "lockSlideScreen": false,
+        "offset": {
+          "__OBJ_TYPE": "Vector3",
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "viewFovAngle": 76
+      },
+      {
+        "distance": 4,
+        "enable": false,
+        "enableCollisionDetect": true,
+        "lockSlideScreen": false,
+        "offset": {
+          "__OBJ_TYPE": "Vector3",
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "viewFovAngle": 75
+      },
+      {
+        "distance": 4,
+        "enable": false,
+        "enableCollisionDetect": true,
+        "lockBodyRotation": false,
+        "lockSlideScreen": false,
+        "offset": {
+          "__OBJ_TYPE": "Vector3",
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "viewFovAngle": 75
+      },
+      {
+        "enable": false,
+        "lockBodyRotation": false,
+        "lockSlideScreen": false,
+        "lockViewPos": true,
+        "pos": {
+          "__OBJ_TYPE": "Vector3i",
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "viewFovAngle": 75
+      }
+    ]
+  },
+  "canJoinMidway": true,
+  "collisionMatrix": [
+    "1"
+  ],
+  "defaultMap": "map001",
+  "defaultQualityLevel": 2,
+  "dragControlConfig": {
+    "useDragControl": true
+  },
+  "editorFovAngle": 65,
+  "enableBakeLight": true,
+  "enableNewLighting": true,
+  "engineDefUIEnable": {
+    "actionControl": true,
+    "appMainRole": true,
+    "chat": true,
+    "playerinfo": true,
+    "shortcutBar": true,
+    "toolbar": true
+  },
+  "forcePickBlock": true,
+  "glesMinorVersion": 0,
+  "glesVersion": 3,
+  "hideCloud": false,
+  "hideTeamStatusBar": true,
+  "ignoreEmptyStartPos": false,
+  "initPos": {
+    "map": "map001",
+    "x": 46.322944641113,
+    "y": 21.121144332886,
+    "z": -60.609161376953
+  },
+  "isTimeStopped": true,
+  "jumpControlConfig": {
+    "area": [
+      [
+        0,
+        100
+      ],
+      [
+        0,
+        60
+      ],
+      [
+        0,
+        200
+      ],
+      [
+        0,
+        200
+      ]
+    ],
+    "jumpImage": {
+      "name": "jump_imagesets/icon_jump_nor.png"
+    },
+    "jumpPushImage": {
+      "name": "jump_imagesets/icon_jump_act.png"
+    },
+    "useGroup": "_imagesets_"
+  },
+  "maxPlayers": 10,
+  "meshPartStaticMergeRender": true,
+  "minPlayers": 1,
+  "moveStateConfig": {
+    "isShow": false
+  },
+  "needSave": true,
+  "noLoadHp": true,
+  "notReadUserSettingCfgAtEditor": true,
+  "nowTime": 0,
+  "oneDayTime": 600,
+  "partGameStaticBatch": true,
+  "personalSettingUI": {
+    "controlMode": true,
+    "guiSize": false,
+    "horizon": false,
+    "imageQuality": true,
+    "jumpSneakState": false,
+    "luminance": false,
+    "sensitive": true,
+    "volume": true
+  },
+  "personalShop": false,
+  "playerCfg": "myplugin/player1",
+  "playTime": -1,
+  "pointLightSize": 4,
+  "qualityLevelData": {
+    "maxLevel": [
+      2,
+      0,
+      0.6,
+      0.68,
+      0.00132,
+      3,
+      1.4,
+      1,
+      1,
+      0.22,
+      -0.00132,
+      0.43,
+      1,
+      0,
+      0.1,
+      0,
+      0,
+      2,
+      2,
+      1,
+      0,
+      2,
+      1.8
+    ]
+  },
+  "replay": false,
+  "reportTime": 1200,
+  "screenSpaceCull": false,
+  "skillJack": {
+    "AJackArea": [
+      [
+        0,
+        -40
+      ],
+      [
+        0,
+        -40
+      ],
+      [
+        0,
+        120
+      ],
+      [
+        0,
+        120
+      ]
+    ],
+    "hideBJack": true,
+    "lineSkills": [
+      {
+        "hAlign": 2,
+        "itemSpace": 30,
+        "jackNum": 2,
+        "jackSize": 80,
+        "vAlign": 1,
+        "xOffset": -50,
+        "yOffset": 0
+      },
+      {
+        "hAlign": 1,
+        "itemSpace": 30,
+        "jackNum": 4,
+        "jackSize": 80,
+        "vAlign": 0,
+        "xOffset": 0,
+        "yOffset": 50
+      }
+    ],
+    "sectorSkills": [
+      {
+        "deltaAngle": 45,
+        "jackNum": 3,
+        "jackSize": 88,
+        "radius": 170,
+        "startAngle": 270
+      }
+    ]
+  },
+  "spotLightSize": 1,
+  "startPos": [
+    {
+      "map": "map001",
+      "x": 46.276611328125,
+      "y": 21.121140518188,
+      "z": -60.975860595703
+    }
+  ],
+  "team": [
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 1,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_1.png",
+      "initPos": {
+        "map": "map001",
+        "x": 46.322944641113,
+        "y": 21.121144332886,
+        "z": -60.609161376953
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 5,
+      "name": "Egg Fire_team",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 46.276611328125,
+          "y": 21.121140518188,
+          "z": -60.975860595703
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 2,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_1.png",
+      "initPos": {
+        "map": "map001",
+        "x": 46.322944641113,
+        "y": 21.121144332886,
+        "z": -60.609161376953
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 5,
+      "name": "Egg blue_team",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 46.276611328125,
+          "y": 21.121140518188,
+          "z": -60.975860595703
+        }
+      ]
+    }
+  ],
+  "teammateHurt": false,
+  "topTeamInfo": {
+    "teamDieIcon": "flag_textures/flag_die",
+    "teamDieIconArea": [
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        -7
+      ],
+      [
+        0,
+        20
+      ],
+      [
+        0,
+        20
+      ]
+    ],
+    "teamInfoArea": [
+      [
+        0,
+        -5
+      ],
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        53.45
+      ],
+      [
+        0,
+        17
+      ]
+    ]
+  },
+  "useHalfImageSize": true,
+  "useNewCollisionFiltering": true,
+  "useNewFirstViewer": true,
+  "useNewQuadConfig": true,
+  "useNewUI": true,
+  "useVoxelTerrain": true,
+  "vars": {
+    "__OBJ_TYPE": [],
+    "entity": [],
+    "global": [],
+    "ui": []
+  },
+  "waitAtInitPos": true,
+  "waitGoTime": 0,
+  "waitPlayerTime": 0,
+  "waitStartTime": 0
+}

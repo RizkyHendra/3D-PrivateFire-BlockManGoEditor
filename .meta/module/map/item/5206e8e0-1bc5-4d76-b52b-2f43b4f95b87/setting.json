@@ -1,0 +1,44 @@
+{
+  "data": {
+    "box": {
+      "base": {
+        "__OBJ_TYPE": "SkyBoxStatic"
+      }
+    },
+    "instances": [
+      {
+        "__OBJ_TYPE": "Instance_VoxelTerrain",
+        "id": "8802562736068116481"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8802562736163536897",
+        "ID": 3,
+        "lightType": "GlobalLight",
+        "name": "EnvironmentLight"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8802562736241573889",
+        "ID": 4,
+        "lightType": "DirectionalLight",
+        "name": "DirectionalLight",
+        "position": {
+          "y": 5
+        },
+        "rotation": {
+          "y": -90
+        }
+      }
+    ],
+    "name": {
+      "value": "map_5206e8e0-1bc5-4d76-b52b-2f43b4f95b87"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a390059e51a70416963f23b5af982e76"
+    },
+    "VERSION": "0.24"
+  }
+}

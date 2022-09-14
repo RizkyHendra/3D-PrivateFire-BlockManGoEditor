@@ -1,0 +1,21 @@
+{
+  "canAbandon": false,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": true,
+  "dropSpeed": 0.2,
+  "icon": "@asset/apple.png",
+  "itemintroduction": "6214c415-f249-45e2-a27f-aaca8ff0bab4",
+  "itemname": "item_apple",
+  "needSave": false,
+  "stack_count_max": 50,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false,
+  "useBuff": {
+    "cfg": "myplugin/recovery",
+    "time": 60
+  }
+}

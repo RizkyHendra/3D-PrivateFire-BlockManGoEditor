@@ -1,0 +1,27 @@
+{
+  "data": {
+    "castEffect": {
+      "effect": {
+        "asset": "asset/efficacy/g2020_ill.effect",
+        "selector": "editor/Capture the flag/asset/efficacy/g2020_ill.effect"
+      },
+      "once": false
+    },
+    "continueHeal": 3,
+    "name": {
+      "value": "buff_recovery"
+    },
+    "sound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "sync": "self"
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c39e1a320c03823bf64ed3a07729286e"
+    },
+    "VERSION": "0.24"
+  }
+}

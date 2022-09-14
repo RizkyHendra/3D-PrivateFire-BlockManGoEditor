@@ -1,0 +1,30 @@
+{
+  "data": {
+    "canUse": true,
+    "icon": {
+      "asset": "asset/apple.png",
+      "selector": "editor/Capture the flag/asset/apple.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemUse",
+        "time": {
+          "value": 60
+        },
+        "useBuff": "myplugin/recovery"
+      },
+      "type": "Use"
+    },
+    "name": {
+      "value": "item_apple"
+    },
+    "stack_count_max": 50
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "dcce629032b7e345fbbb96556938b139",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.24"
+  }
+}

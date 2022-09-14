@@ -1,0 +1,41 @@
+{
+  "addCollision": 0,
+  "antiGravity": 0,
+  "continueDamage": 0,
+  "continueHeal": 3,
+  "damage": 0,
+  "damagePct": 0,
+  "deadRemove": false,
+  "deDmgPct": 0,
+  "dropDamageRatio": 0,
+  "dropDamageStart": 0,
+  "effect": {
+    "effect": "asset/efficacy/g2020_ill.effect",
+    "once": false,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "selfOnly": false,
+    "yaw": 0
+  },
+  "gravity": 0,
+  "hide": 0,
+  "jumpSpeed": 0,
+  "maxHp": 0,
+  "moveAcc": 0,
+  "moveFactor": 0,
+  "moveSpeed": 0,
+  "needSave": false,
+  "reachDistance": 0,
+  "skin": [],
+  "sync": "self",
+  "unassailable": 0,
+  "undamageable": 0
+}
